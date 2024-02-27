@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables_Entity", "Tables_Entity\Tables_Entity.csproj", "{147C8498-4067-4B0F-B75F-74F22B741FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C29A4492-7040-4DD3-9678-0C0A4D3FD724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147C8498-4067-4B0F-B75F-74F22B741FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147C8498-4067-4B0F-B75F-74F22B741FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147C8498-4067-4B0F-B75F-74F22B741FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147C8498-4067-4B0F-B75F-74F22B741FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29A4492-7040-4DD3-9678-0C0A4D3FD724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29A4492-7040-4DD3-9678-0C0A4D3FD724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29A4492-7040-4DD3-9678-0C0A4D3FD724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29A4492-7040-4DD3-9678-0C0A4D3FD724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {173E825A-867C-4637-AE5A-D09D07CE8485}
+	EndGlobalSection
+EndGlobal
